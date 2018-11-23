@@ -32,8 +32,10 @@ From Confluence:
 
 
 
+
 # Convert content to Markdown
-We'll use existing Node docker container for this. 
+confluence-to-github-markdown is a node package that converts exported Confluence content to MarkDown.
+We'll use a Node docker container to run this.
 
 From host:
 

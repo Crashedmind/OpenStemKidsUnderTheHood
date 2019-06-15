@@ -1,0 +1,31 @@
+https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+
+Key	Command
+Ctrl + B	Toggle bold
+Ctrl + I	Toggle italic
+Ctrl + Shift + ]	Toggle heading (uplevel)
+Ctrl + Shift + [	Toggle heading (downlevel)
+Ctrl + M	Toggle math environment
+Alt + C	Check/Uncheck task list item: "- [ ] todo"
+Ctrl + Shift + V	Toggle preview
+Ctrl + K V	Toggle preview to side
+
+Alt + Shift + F: github table formatting
+
+Create links
+Paste link on selected text
+
+CTRL+SHIFT+P (command palette) : select 
+  Markdown: Create Table of Contents
+    Use <!-- omit in toc --> to ignore specific heading in TOC
+  Markdown: Update Table of Contents
+  Markdown: Toggle code span
+  Markdown: Print current document to HTML
+  Markdown: Toggle math environment
+  Markdown: Toggle unordered list
+  
+  
+  Preview
+  Ctrl + Shift + V
+  
+  
